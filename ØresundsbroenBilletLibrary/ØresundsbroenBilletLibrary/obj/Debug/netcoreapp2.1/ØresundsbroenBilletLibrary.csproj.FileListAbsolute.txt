@@ -1,0 +1,4 @@
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\ØresundsbroenBilletLibrary.csprojAssemblyReference.cache
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\ØresundsbroenBilletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\ØresundsbroenBilletLibrary.AssemblyInfoInputs.cache
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\ØresundsbroenBilletLibrary.AssemblyInfo.cs

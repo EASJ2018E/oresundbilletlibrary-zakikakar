@@ -1,0 +1,13 @@
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\OeresundsbroenBilletLibrary.csprojAssemblyReference.cache
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\OeresundsbroenBilletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\OeresundsbroenBilletLibrary.AssemblyInfoInputs.cache
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\OeresundsbroenBilletLibrary.AssemblyInfo.cs
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\bin\Debug\netcoreapp2.1\netcoreapp2.1\OeresundsbroenBilletLibrary.deps.json
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\bin\Debug\netcoreapp2.1\netcoreapp2.1\OeresundsbroenBilletLibrary.dll
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\bin\Debug\netcoreapp2.1\netcoreapp2.1\OeresundsbroenBilletLibrary.pdb
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\bin\Debug\netcoreapp2.1\netcoreapp2.1\ØresundsbroenBilletLibrary.xml
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\bin\Debug\netcoreapp2.1\netcoreapp2.1\BilletLibrary.dll
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\bin\Debug\netcoreapp2.1\netcoreapp2.1\BilletLibrary.xml
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\OeresundsbroenBilletLibrary.csproj.CopyComplete
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\OeresundsbroenBilletLibrary.dll
+C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\obj\Debug\netcoreapp2.1\OeresundsbroenBilletLibrary.pdb

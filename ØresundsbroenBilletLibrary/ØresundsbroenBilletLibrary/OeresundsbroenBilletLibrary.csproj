@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\Zaki\source\oresundbilletlibrary-zakikakar\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary\ØresundsbroenBilletLibrary.xml</DocumentationFile>
+    <OutputPath>bin\Debug\netcoreapp2.1\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DLL\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BilletLibrary">
+      <HintPath>..\..\..\StoreBaeltBilletLibrary\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\dll\BilletLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
